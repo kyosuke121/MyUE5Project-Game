@@ -7,7 +7,7 @@
 | **開発規模** | ほぼ個人開発、チーム開発の経験も積みたいと思い、現在はアニメーションエンジニアの友人と二人で少しずつ開発を進めています|
 | **担当範囲** | 全てのプログラム、ゲームデザイン、シナリオ |
 | **ソースコード** | [Repository](https://github.com/kyosuke121/MyUE5Project-Game) |
-| **動画** | https://youtu.be/42ikaew_P5s |
+| **動画** | https://youtu.be/42ikaew_P5s?si=1hwgDIgY3AR8ToLL |
 
 ---
 ## 概要 (Overview)
